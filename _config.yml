@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Christofer Meinecke's HomePage"
+description              : "Computer Science PhD Student at Leipzig University.<br>My Research interest include Information visualization, Visual Analytics and Machine Learning for Cultural Heritage Data."
+repository               : "trichto/trichto.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Christofer Meinecke"
+  avatar           : "images/android-chrome-192x192.png"
+  bio              : "Leipzig University"
+  location         : "Leipzig, Germany"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=mGgUA4AAAAAJ&hl=de"
+  email            : "cmeinecke@informatik.uni-leipzig.de"
+  researchgate     : "https://www.researchgate.net/profile/Christofer-Meinecke"
   uri              :
   bitbucket        :
   codepen          :
