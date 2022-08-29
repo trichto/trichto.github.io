@@ -28,7 +28,7 @@ Including textual alignments and Computer Vision methods with a strong focus on 
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Accepted Paper "Labeling of Cultural Heritage Collections on the Intersection of Visual Analytics and Digital Humanities" at the [VIS4DH Workshop](https://vis4dh.dbvis.de/)
-- *2022.07*: &nbsp;⏱️⏱️ Submitted Paper "A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations" to [DSH](https://academic.oup.com/dsh)
+- *2022.07*: &nbsp;⏱️⏱️ Pre-Print [A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations](https://arxiv.org/pdf/2208.09657.pdf)
 
 # 📝 Publications 
 
