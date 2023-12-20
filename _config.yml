@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Christofer Meinecke's HomePage"
-description              : "Computer Science PhD Student at Leipzig University.<br>My Research interest include Information Visualization, Visual Analytics and Machine Learning for Cultural Heritage Data."
+description              : "PostDoc at Leipzig University.<br>My Research interest include Information Visualization, Visual Analytics and Machine Learning for Cultural (Heritage) Data."
 repository               : "trichto/trichto.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,13 +15,13 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  F_zax3LUBMxpYiZHwtKUtGXa-91n_u40iDh8IrbW-aA # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  F_zax3LUBMxpYiZHwtKUtGXa-91n_u40iDh8IrbW-aA
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Christofer Meinecke"
+  name             : "Dr. Christofer Meinecke"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Leipzig University"
   location         : "Leipzig, Germany"
