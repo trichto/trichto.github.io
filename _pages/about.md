@@ -102,7 +102,6 @@ Including NLP and Computer Vision methods with a strong focus on human-in-the-lo
 
 # 📊 Other Visualization Research
 <img src='images/teasernobg.png' alt="sym" width="50%"> 
--> TODO anderes Bild
 
 - [n Walks in the Fictional Woods](https://altvis.github.io/#nWalks), Victor Schetinger, Sara Di Bartolomeo, Edirlei Soares de Lima, **Christofer Meinecke**, Rudolf Rosa, **altVis 2023**
 
@@ -115,33 +114,8 @@ Including NLP and Computer Vision methods with a strong focus on human-in-the-lo
 - [Authorless AI-Assisted Productions: Recent Developments Impacting Their Protection in the European Union](https://www.jipitec.eu/issues/jipitec-14-1-2023/5709), Marta Duque Lizarralde, **Christofer Meinecke**, **Journal of Intellectual Property, Information Technology and E-Commerce Law**
 
 
-
-
-
-# 🖼️ Visualization of Medieval Illuminations
-<img src='images/dh2022.jpg' alt="sym" width="50%">
-
-- [From Modern to Medieval: Detecting and Visualizing Entities in Manuscripts of Marco Polo's Devisement du Monde](https://dh2022.dhii.asia/abstracts/files/MEINECKE_Christofer_From_Modern_to_Medieval__Detecting_and_V.html), **Christofer Meinecke**, David Joseph Wrisley and Stefan Jänicke, **DH 2022: "Responding to Asian Diversity"**
-
-# 🎤 Visualization of Musical Data & Lyrics
-<img src='images/ArtistView.png' alt="sym" width="50%">
-
-- [A Survey on Visualizations for Musical Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13905), Richard Khulusi, Jakob Kusnick, **Christofer Meinecke**, Christina Gillmann, Josef Focht and Stefan Jänicke, **Computer Graphics Forum, 2020**
-- [Visualizing Similarities between American Rap-Artists based on Text Reuse](https://ul.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Ful.qucosa.de%2Fapi%2Fqucosa%253A79826%2Fmets), **Christofer Meinecke**, Jeremias Schebera, Jakob Eschrich and Daniel Wiegreffe, **LEVIA 2022: Leipzig Symposium on Visualization in Applications**
-- [Explorative Visual Analysis of Rap Music](https://mdpi-res.com/d_attachment/information/information-13-00010/article_deploy/information-13-00010.pdf?version=1640670939), **Christofer Meinecke**, Ahmad Dawar Hakimi  and Stefan Jänicke, **MDPI Information Special Issue "Visual Text Analysis in Digital Humanities, 2021"**
-
-- [Visualizing Similarities between American Rap-Artists](https://diglib.eg.org/handle/10.2312/evp20221129), **Christofer Meinecke**, Jeremias Schebera, Jakob Eschrich and Daniel Wiegreffe, **EuroVis 2022 Poster**
-- [Detecting Text Reuse and Similarities between Artists in Rap Music through Visualization](https://osf.io/j4cn8/), **Christofer Meinecke** and Stefan Jänicke, **LEVIA 2020: Leipzig Symposium on Visualization in Applications**
-
-# 📚 Visualization of Text Alignments & Prosopographical Data
-<img src='images/iteal.png' alt="sym" width="50%">
-
-- [Automated Alignment of Medieval Text Versions based on Word Embeddings](http://levia19.vizcovery.de/papers/LEVIA19_paper_6.pdf), **Christofer Meinecke**, David Joseph Wrisley and Stefan Jänicke , **LEVIA 2019: Leipzig Symposium on Visualization in Applications**
-- [Visual Analysis of Engineers’ Biographies and Engineering Branches](http://levia18.vizcovery.de/paper/levia18-meinecke.pdf), **Christofer Meinecke** and Stefan Jänicke, **LEVIA 2018: Leipzig Symposium on Visualization in Applications**
-- [Interactive Visual Exploration of Engineers' Biographies](https://eadh2018.exordo.com/files/papers/54/final_draft/Interactive_Visual_Exploration_of_Engineers_Biographies.pdf), **Christofer Meinecke** and Stefan Jänicke, **EADH 2018: "Data in Digital Humanities"**
-
 # 📖 Education
-- *2019 - 2023*, PhD Student in Computer Science, Image & Signal Processing Group at Leipzig University, Germany. 
+- *2019 - 2023*, PhD in Computer Science, Image & Signal Processing Group at Leipzig University, Germany. 
 - *2017 - 2019*, Master Degree in Computer Science, Leipzig University, Germany. 
 - *2014 - 2017*, Bachelor Degree in Computer Science, Leipzig University, Germany. 
 
