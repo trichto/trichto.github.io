@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Christofer Meinecke's HomePage"
-description              : "PostDoc at Leipzig University.<br>My Research interest include Information Visualization, Visual Analytics and Machine Learning for Cultural (Heritage) Data."
+description              : "PostDoc at ScaDS.AI & Leipzig University.<br>My Research interest include Information Visualization, Visual Analytics and Machine Learning for Cultural (Heritage) Data."
 repository               : "trichto/trichto.github.io"
 google_scholar_stats_use_cdn : true
 

@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a PostDoc in the [Image & Signal Processing Group at Leipzig University](http://www.informatik.uni-leipzig.de/bsv/homepage/en/people/christofer-meinecke).
-I received my PhD in Computer Science from Leipzig University, Germany in 2023 under the supervision of Prof. Stefan Jänicke and Prof. Gerik Scheuermann, the topic was "Visual Analytics for the Exploratory Analysis and Labeling of Cultural Data". 
+Currently, I am a PostDoc at [ScaDS.AI (Center for Scalable Data Analytics and Artificial Intelligence) Dresden/Leipzig](https://scads.ai/) and the [Image & Signal Processing Group at Leipzig University](http://www.informatik.uni-leipzig.de/bsv/homepage/en/people/christofer-meinecke).
+I received my Ph.D. in Computer Science from Leipzig University, Germany in 2023 under the supervision of Prof. Stefan Jänicke and Prof. Gerik Scheuermann, the topic was "Visual Analytics for the Exploratory Analysis and Labeling of Cultural Data". 
 
-From 2019 to 2023, I worked as a research assistant and PhD Student in the [Image & Signal Processing Group at Leipzig University](http://www.informatik.uni-leipzig.de/bsv/homepage/en/people/christofer-meinecke), where I was involved in the projects ["Data Mining and Value Creation"](https://www.data-mining-und-wertschoepfung.de/en.html) and ["Smart Regional Development Infrastructure"](https://www.informatik.uni-leipzig.de/bsv/homepage/en/content/smart-regional-development-infrastructure-sardine).
+From 2019 to 2023, I worked as a research assistant and Ph.D. Student in the [Image & Signal Processing Group at Leipzig University](http://www.informatik.uni-leipzig.de/bsv/homepage/en/people/christofer-meinecke), where I was involved in the projects ["Data Mining and Value Creation"](https://www.data-mining-und-wertschoepfung.de/en.html) and ["Smart Regional Development Infrastructure"](https://www.informatik.uni-leipzig.de/bsv/homepage/en/content/smart-regional-development-infrastructure-sardine).
 The first experience working on interdisciplinary Digital Humanities projects I gained during my Master's Degree in the [TASTEN-Project at the Musical Instrument Museum Leipzig](https://organology.uni-leipzig.de/index.php/forschung/tasten).
 
 Further, I engaged in several interdisciplinary research collaborations with humanities scholars and people working in the GLAM sector.
@@ -28,7 +28,9 @@ My research interests include Information Visualization, Digital Humanities, Vis
 Including NLP and Computer Vision methods with a strong focus on human-in-the-loop processes and participatory design.
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Received my PhD in Computer Science from Leipzig University.
+- *2024.04*: &nbsp;🎉🎉 Joined the [ScaDS.AI (Center for Scalable Data Analytics and Artificial Intelligence) Dresden/Leipzig](https://scads.ai/)
+- *2024.03*: &nbsp;🎉🎉 The paper "Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics" got accepted at [DSH](https://academic.oup.com/dsh).
+- *2023.10*: &nbsp;🎉🎉 Received my Ph.D. in Computer Science from Leipzig University.
 
 # 📝 Publications 
 
